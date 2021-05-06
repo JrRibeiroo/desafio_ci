@@ -1,5 +1,5 @@
 # Desafio_ci
-## Desafio03 - Curso FullCycle : Gerar uma imagem Docker com um app GO que faça um print simples e que tenha menos de 2MB
+## Desafio03 - FullCycle : Gerar um ciclo de CI completo com PullRequest e testes integrados com SonarCloud
 ---
 
 - Crie uma pequena aplicação simples em node.js (qualquer aplicação mesmo)
