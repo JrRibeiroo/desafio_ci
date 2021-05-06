@@ -1,5 +1,5 @@
-function printName(name){
-    return "Hello " + name
+function sum(a, b){
+    return a + b
 }
 
-module.exports = printName
+module.exports = sum

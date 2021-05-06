@@ -1,9 +1,9 @@
 TN:
 SF:src/index.js
-FN:1,printName
+FN:1,sum
 FNF:1
 FNH:1
-FNDA:1,printName
+FNDA:1,sum
 DA:2,1
 DA:5,1
 LF:2
